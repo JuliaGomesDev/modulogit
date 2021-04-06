@@ -1,4 +1,3 @@
 Meu primeiro sistema no GIT
 
-Alteração no readme para descrever melhor meu sistema.
-Alteração no master
+Por favor, não considere este branch, ele é apenas um treinamento de versionamento com o git.
